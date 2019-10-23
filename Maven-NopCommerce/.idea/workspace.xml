@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7d4251f-763b-40c0-b422-05de5a551be8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1STECFRMczZNpwdD5Cv9TPz6SCI" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\RegistrationNopCommerce\driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.AddToCart">
+    <configuration name="AddToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuit" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuit.AddToCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencySelection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuit" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuit.CurrencySelection" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencySelection.userShouldAbleToSelectCurrencySuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuit" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuit.CurrencySelection" />
+      <option name="METHOD_NAME" value="userShouldAbleToSelectCurrencySuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuit" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuit.RegisterTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskBarSelection.userShouldAbleToClickComputerOptionSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RegistrationNopCommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nopcommerce.demo.testsuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nopcommerce.demo.testsuit" />
+      <option name="MAIN_CLASS_NAME" value="com.nopcommerce.demo.testsuit.TaskBarSelection" />
+      <option name="METHOD_NAME" value="userShouldAbleToClickComputerOptionSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AddToCart" />
+        <item itemvalue="TestNG.CurrencySelection" />
+        <item itemvalue="TestNG.RegisterTest" />
+        <item itemvalue="TestNG.TaskBarSelection.userShouldAbleToClickComputerOptionSuccessfully" />
+        <item itemvalue="TestNG.CurrencySelection.userShouldAbleToSelectCurrencySuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7d4251f-763b-40c0-b422-05de5a551be8" name="Default Changelist" comment="" />
+      <created>1571579055089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571579055089</updated>
+    </task>
+    <servers />
+  </component>
+</project>
